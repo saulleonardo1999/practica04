@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Práctica con botones</string>
+    <string name="saludo">Cambiando el texto</string>
+    <string name="boton">CAMBIAR DATO</string>
+    <string name="borrar">BORRAR EL TEXTO</string>
+    <string name="hintText">Ingresa texto para modificar</string>
+</resources>
